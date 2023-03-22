@@ -16,6 +16,20 @@
     <scolor>#000000</scolor>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Floflis Desktop3</name>
+    <filename>/usr/share/backgrounds/3.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Floflis Desktop4</name>
+    <filename>/usr/share/backgrounds/4.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Floflis Lockscreen</name>
     <filename>/1/img/lockscreen.png</filename>
     <options>zoom</options>
