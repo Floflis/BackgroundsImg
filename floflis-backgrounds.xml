@@ -3,7 +3,14 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Floflis Desktop</name>
-    <filename>/1/img/bg.jpg</filename>
+    <filename>/1/img/bg.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Floflis Desktop2</name>
+    <filename>/usr/share/backgrounds/danimesq.eth_as_a_rugged_ball_in_a_yellow_wall__high_resolution_68ba91b8-2192-4e91-90c6-ee2fb13bdaa8.png</filename>
     <options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
