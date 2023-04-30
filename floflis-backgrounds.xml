@@ -65,6 +65,13 @@
     <scolor>#000000</scolor>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Floflis Desktop10</name>
+    <filename>/usr/share/backgrounds/10.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Floflis Lockscreen</name>
     <filename>/1/img/lockscreen.png</filename>
     <options>zoom</options>
