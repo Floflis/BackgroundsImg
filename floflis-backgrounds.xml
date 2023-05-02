@@ -16,62 +16,6 @@
     <scolor>#000000</scolor>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Floflis Desktop3</name>
-    <filename>/usr/share/backgrounds/3.svg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Floflis Desktop4</name>
-    <filename>/usr/share/backgrounds/4.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Floflis Desktop5</name>
-    <filename>/usr/share/backgrounds/5.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Floflis Desktop6</name>
-    <filename>/usr/share/backgrounds/6.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Floflis Desktop7</name>
-    <filename>/usr/share/backgrounds/7.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Floflis Desktop8</name>
-    <filename>/usr/share/backgrounds/8.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Floflis Desktop9</name>
-    <filename>/usr/share/backgrounds/9.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Floflis Desktop10</name>
-    <filename>/usr/share/backgrounds/10.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>Floflis Lockscreen</name>
     <filename>/1/img/lockscreen.png</filename>
     <options>zoom</options>
@@ -214,6 +158,62 @@
   <wallpaper deleted="false">
     <name>Turtle</name>
     <filename>/usr/share/backgrounds/turtle-182121.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Floflis Desktop3</name>
+    <filename>/usr/share/backgrounds/3.svg</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Floflis Desktop4</name>
+    <filename>/usr/share/backgrounds/4.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Floflis Desktop5</name>
+    <filename>/usr/share/backgrounds/5.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Floflis Desktop6</name>
+    <filename>/usr/share/backgrounds/6.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Floflis Desktop7</name>
+    <filename>/usr/share/backgrounds/7.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Floflis Desktop8</name>
+    <filename>/usr/share/backgrounds/8.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Floflis Desktop9</name>
+    <filename>/usr/share/backgrounds/9.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Floflis Desktop10</name>
+    <filename>/usr/share/backgrounds/10.png</filename>
     <options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
